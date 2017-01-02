@@ -10,7 +10,7 @@
 # character_name: Jane Doe
 # item_path: /obj/item/toy/plushie
 # item_name: ugly plush toy
-# item_icon: flagmask     
+# item_icon: flagmask
 # item_desc: It's truly hideous.
 # req_titles: Assistant, Security Officer
 # req_access: 1
@@ -53,7 +53,7 @@ item_desc: A silver, heart-shaped locket. It flips open to reveal two pictures, 
 ckey: emmanuelbassil
 character_name: Noah Bedran
 item_path: /obj/item/toy/bosunwhistle
-item_name: captain's whistle  
+item_name: captain's whistle
 item_desc: A small, compact blue whistle; with the NT logo engraved on its side. It hangs from a golden chain.
 }
 
@@ -275,7 +275,7 @@ ckey: jakksergal
 character_name: Eshi Riri
 item_path: /obj/item/weapon/storage/bible
 item_name: Riri's Art Book
-item_desc: A thick, heavy, and tattered binder with many pages of hand drawn pictures. In the bottom right is written "Riri's" in a little name box. Next to that is "PRIVATE" written in big red painted-on letters. 
+item_desc: A thick, heavy, and tattered binder with many pages of hand drawn pictures. In the bottom right is written "Riri's" in a little name box. Next to that is "PRIVATE" written in big red painted-on letters.
 item_icon: riri_book
 }
 
@@ -401,7 +401,7 @@ character_name: Wade West
 item_path: /obj/item/device/kit/suit
 item_name: Wade's Arctic Voidsuit Kit
 item_desc: A customisation kit with all the parts needed to convert a suit.
-kit_name: Wade's arctic 
+kit_name: Wade's arctic
 kit_desc: A voidsuit rated for extreme temperatures ranges on either side of the spectrum. It's looking a little ragtag. The nameplate reads 'K. Ramer'. Where'd Wade get this, anyway?
 kit_icon: seinfeld
 }
@@ -453,7 +453,7 @@ ckey: beepboopbeta
 character_name: Mason Fisher
 item_path: /obj/item/clothing/head/beret
 item_name: Crest Beret
-item_desc: A crisp black beret. It has a silver emblem with CREST inscribed. 
+item_desc: A crisp black beret. It has a silver emblem with CREST inscribed.
 item_icon: fisher_beret
 }
 
@@ -504,3 +504,13 @@ item_name: Hipster Getup
 item_desc: For when you need to go hyper-hipster
 item_icon: hipster_cfj
 }
+
+{
+ckey: takinshikaze
+character_name: Takin Shikaze
+item_path: /obj/item/weapon/screwdriver
+item_name: Taki's Screwdriver
+item_desc: A tool made of aluminum; all craftsmanship is of high quality.  It menaces with spikes of white pearl.  It does not look safe.
+item_icon: screwdriver
+}
+
