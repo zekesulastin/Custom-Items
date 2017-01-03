@@ -511,6 +511,5 @@ character_name: Takin Shikaze
 item_path: /obj/item/weapon/screwdriver
 item_name: Taki's Screwdriver
 item_desc: A tool made of aluminum; all craftsmanship is of high quality.  It menaces with spikes of white pearl.  It does not look safe.
-item_icon: screwdriver
 }
 
